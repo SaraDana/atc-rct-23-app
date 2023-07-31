@@ -21,9 +21,9 @@ Open dana-app/app/android where there are 3 google-services.json files.
 
 By default this is in prod but if you want to change to DEV copy and paste the content of google_services_dev.json in google-services.json.
 
-And in dana-app/app/android/android/app/build.gradle you have to change the : applicationId "health.dana.app".
+And in dana-app/app/android/android/app/build.gradle you have to change the : applicationId "rct-23.dana.app".
 to
-"health.dana.app.dev".
+"rct-23.dana.app.dev".
 
 
   
