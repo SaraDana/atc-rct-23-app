@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "114247706114",
+    "project_id": "dana-health",
+    "storage_bucket": "dana-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114247706114:android:fa8af8e3cd90121ae3291b",
+        "android_client_info": {
+          "package_name": "com.athousandcolibris.dana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114247706114-apl2qa7vkbbpm7nc7lgcno3ecff9nbav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.athousandcolibris.dana",
+            "certificate_hash": "c916424a4863721465ef57ceac402978abe983ed"
+          }
+        },
+        {
+          "client_id": "114247706114-maufmuduudjl9i76aflpm0fdrfc3mbta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.athousandcolibris.dana",
+            "certificate_hash": "1f03d2779b23c48e94c7b498cc55df9af93ab7ee"
+          }
+        },
+        {
+          "client_id": "114247706114-nduat6k58jfm2m5s92n0mep6ac569ngr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.athousandcolibris.dana",
+            "certificate_hash": "89c2edcb0d7e9840437dce2436fe1a2904c18a9b"
+          }
+        },
+        {
+          "client_id": "114247706114-aq3auc0qc1jgg16ajvubc0u0i0gl4vin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoigHLPtLbIAJ-G2fBML5LSRgKAR6Li0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114247706114-aq3auc0qc1jgg16ajvubc0u0i0gl4vin.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114247706114-fdg8e2svo92pona6qoh4vrs88v64sa2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.athousandcolibris.dana"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114247706114:android:8736b09754aa0e1be3291b",
+        "android_client_info": {
+          "package_name": "health.dana.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114247706114-39pto93siv4jb50mhjspmnef0njk7elv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "health.dana.app",
+            "certificate_hash": "c916424a4863721465ef57ceac402978abe983ed"
+          }
+        },
+        {
+          "client_id": "114247706114-6nmhn5g9euns8u3agvfv9mpdpgu0d4km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "health.dana.app",
+            "certificate_hash": "1f03d2779b23c48e94c7b498cc55df9af93ab7ee"
+          }
+        },
+        {
+          "client_id": "114247706114-88mmjaknj2vq6kst4g76evb9sumbcloi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "health.dana.app",
+            "certificate_hash": "1188ce830f7ccb212011b9f165dbf0a6c0c1b5de"
+          }
+        },
+        {
+          "client_id": "114247706114-sd3fvfscf5h76u7dgm7sr5a11svd7oad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "health.dana.app",
+            "certificate_hash": "89c2edcb0d7e9840437dce2436fe1a2904c18a9b"
+          }
+        },
+        {
+          "client_id": "114247706114-aq3auc0qc1jgg16ajvubc0u0i0gl4vin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoigHLPtLbIAJ-G2fBML5LSRgKAR6Li0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114247706114-aq3auc0qc1jgg16ajvubc0u0i0gl4vin.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114247706114-fdg8e2svo92pona6qoh4vrs88v64sa2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.athousandcolibris.dana"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
