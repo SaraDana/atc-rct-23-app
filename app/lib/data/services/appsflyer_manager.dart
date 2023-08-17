@@ -7,7 +7,7 @@ import '../../cubits/purchases/purchases_cubit.dart';
 import '../../core/di/locator.dart';
 
 const devKey = "jVbeQZXAvjxLXWfwY4HPnL";
-const androidAppId = "rct-23.dana.app";
+const androidAppId = "rcturv.dana.app";
 const iosAppId = "id1559706974";
 
 class AppsFlyerManager {

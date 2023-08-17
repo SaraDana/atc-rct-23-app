@@ -3,7 +3,7 @@ import 'package:app/core/ui/widgets/layouts/dialog_layout.dart';
 import 'package:app/data/services/dana_analytics_service.dart';
 import 'package:app/generated/l10n.dart';
 import 'package:app/styles/dana_theme.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; 
 import 'dart:io' show Platform;
 
 import 'package:url_launcher/url_launcher.dart';
