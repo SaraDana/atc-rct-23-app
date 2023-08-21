@@ -1,5 +1,5 @@
 abstract class ApiConstants {
-  static String BASE_URL = "https://us-central1-dana-health.cloudfunctions.net";
+  static String BASE_URL = "https://us-central1-atc-rct-23-app.cloudfunctions.net/";
 
   //endpoints
   static String startQuestionnare = "startQuestionnaire";

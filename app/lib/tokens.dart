@@ -1,1 +1,1 @@
-const MIX_PANEL_TOKEN = '79a7ca0e5b82fae0dc6b3ce199b66afa';
+const MIX_PANEL_TOKEN = 'fd18f54d6748c98c8a8f6527d1a06b1a';

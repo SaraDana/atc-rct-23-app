@@ -17,7 +17,7 @@ class PushNotificationService {
 
     // OneSignal.shared.setLogLevel(OSLogLevel.verbose, OSLogLevel.none);
 
-    OneSignal.shared.setAppId('d7375fa6-2449-4a46-a697-2cf309c16b2e');
+    OneSignal.shared.setAppId('2114cbee-c07b-4cd0-a8c4-ea0a240aefab');
     OneSignal.shared.setLaunchURLsInApp(false);
     // OneSignal.shared.setInFocusDisplayType(OSNotificationDisplayType.notification);
 
